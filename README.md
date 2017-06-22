@@ -1,9 +1,9 @@
 # vue-webpack-boilerplate with bootstrap support
 
-> A full-featured Webpack setup with hot-reload, lint-on-save, unit testing & css extraction.
+This is the original README of the [vue-webpack](https://github.com/vuejs-templates/webpack) template. __You can find the differences / usage instructions for this fork [here](README_bootstrap_sass.md)__.
 
-Difference between this fork and the original [vue-webpack](https://github.com/vuejs-templates/webpack) template:
-* [Bootstrap](https://github.com/twbs/bootstrap) integration (sass)
+
+> A full-featured Webpack setup with hot-reload, lint-on-save, unit testing & css extraction.
 
 > This template is Vue 2.0 compatible. For Vue 1.x use this command: `vue init webpack#1.0 my-project`
 
@@ -13,8 +13,6 @@ Difference between this fork and the original [vue-webpack](https://github.com/v
 - [For Vue 2.0](http://vuejs.org/guide/): general information about how to work with Vue, not specific to this template
 
 ## Usage
-
-Modifying the Bootstrap version: update `bootstrapVersion` in `template/.bootstraprc`.
 
 This is a project template for [vue-cli](https://github.com/vuejs/vue-cli). **It is recommended to use npm 3+ for a more efficient dependency tree.**
 
