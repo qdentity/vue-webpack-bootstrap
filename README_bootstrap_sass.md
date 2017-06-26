@@ -9,7 +9,7 @@ Difference between this fork and the original [vue-webpack](https://github.com/v
 Use it with `vue-cli`:
 
 ``` bash
-vue init qdentity/webpack
+vue init qdentity/vue-webpack-bootstrap
 ```
 
 ## Modifying the Bootstrap version
