@@ -13,8 +13,5 @@ vue init qdentity/webpack
 ```
 
 ## Modifying the Bootstrap version
-1. Update the Bootstrap version: `bootstrapVersion` in `template/.bootstraprc` 
-2. Use it with `vue-cli`:
-``` bash
-vue init your-username/name-of-your-fork
-```
+Update the Bootstrap version: `bootstrapVersion` in `template/.bootstraprc` 
+
