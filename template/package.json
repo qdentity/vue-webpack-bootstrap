@@ -14,8 +14,8 @@
     "lint": "eslint --ext .js,.vue src{{#unit}} test/unit/specs{{/unit}}{{#e2e}} test/e2e/specs{{/e2e}}"{{/lint}}
   },
   "dependencies": {
-    "vue": "^2.3.3"{{#router}},
-    "vue-router": "^2.6.0"{{/router}}
+    "vue": "^2.4.2"{{#router}},
+    "vue-router": "^2.7.0"{{/router}}
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
@@ -72,7 +72,6 @@
     "karma-sourcemap-loader": "^0.3.7",
     "karma-spec-reporter": "0.0.31",
     "karma-webpack": "^2.0.2",
-    "lolex": "^1.5.2",
     "mocha": "^3.2.0",
     "chai": "^3.5.0",
     "sinon": "^2.1.0",
@@ -97,7 +96,7 @@
     "sass-loader": "^6.0.5",
     "style-loader": "^0.18.1",
     "url-loader": "^0.5.8",
-    "vue-loader": "^12.1.0",
+    "vue-loader": "^13.0.4",
     "vue-style-loader": "^3.0.1",
     "vue-template-compiler": "^2.3.3",
     "webpack": "^2.6.1",
